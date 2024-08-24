@@ -5,7 +5,7 @@
 <h1 align="center">Anya_v2 - MultiDevice</h1>
 
 <p align="center">
-  <a href="https://github.com/PikaBotz"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Pika~Kun;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
+  <a href="https://github.com/Irfanff9"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Queen+Anya+v2+MultiDevice;New+Plugin+Base+Modification;Developed+by+Irfanff9;Give+star+and+forks+this+Repo+🌟" alt="AnyaReadme"></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ##
 ## `How To Deploy?`
   1. Fork the `Repo`.
-     - ***([`Tap Here To Fork`](https://github.com/PikaBotz/Anya_v2-MD/fork))***
+     - ***([`Tap Here To Fork`](https://github.com/Irfanff9/Anya_v2-MD/fork))***
 
 ##
 
@@ -34,7 +34,7 @@
 
 ##
 
-1. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/PikaBotz/Anya_v2-MD&branch=master&builder=dockerfile&region=fra&name=queen-anya-md&service_type=web&ports=8080;http;/&env[BotName]=Queen%20Anya%20Bot&env[Footer]=©%20Queen%20Anya%20Bot&env[Prefix]=-&env[ThemeEmoji]=🎐&env[Owner_Name]=Pika~Kun&env[Owner_Number]=91881107xxxx&env[Insta]=3.69_pika&env[Author]=PikaBotz&env[PackName]=Queen%20Anya%20v2%20MD&env[Web]=https://github.com/PikaBotz&env[GcLink]=https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX&env[Warn_Limits]=3&env[Cooldown_Timer_Seconds]=5&env[Port]=8080&env[MongoDB]=YOUR_MONGODB_URL&env[SESSION_ID]=YOUR_SESSION_ID)
+1. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Irfanff9/Anya_v2-MD&branch=master&builder=dockerfile&region=fra&name=queen-anya-md&service_type=web&ports=8080;http;/&env[BotName]=Queen%20Anya%20Bot&env[Footer]=©%20Queen%20Anya%20Bot&env[Prefix]=-&env[ThemeEmoji]=🎐&env[Owner_Name]=Irfanff9&env[Owner_Number]=91881107xxxx&env[Insta]=3.irpann_kidss&env[Author]=Irfanff9&env[PackName]=Queen%20Anya%20v2%20MD&env[Web]=https://github.com/Irfanff9&env[GcLink]=https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX&env[Warn_Limits]=3&env[Cooldown_Timer_Seconds]=5&env[Port]=8080&env[MongoDB]=YOUR_MONGODB_URL&env[SESSION_ID]=YOUR_SESSION_ID)
 
 ***<p align="left"> • [`Tap here for Koyeb tutorial`](https://example.com) </p>***
 
@@ -47,16 +47,16 @@
     
 | Key                  | Example Value                        |
 |----------------------|------------------------------|
-| BotName              | Queen Anya Bot               |
-| Footer               | © Queen Anya Bot             |
+| BotName              | Irfan Bot               |
+| Footer               | © Irfan Bot             |
 | Prefix               | -                            |
 | ThemeEmoji           | 🎐                           |
-| Owner_Name           | Pika~Kun                     |
+| Owner_Name           | Irfanff9                     |
 | Owner_Number         | 91881107xxxx                 |
-| Insta                | 3.69_pika                    |
-| Author               | @PikaBotz                    |
-| PackName             | Queen Anya v2 MD             |
-| Web                  | https://github.com/PikaBotz  |
+| Insta                | 3.irpann_kidss                    |
+| Author               | @Irfanff9                    |
+| PackName             | Irfan v2 MD             |
+| Web                  | https://github.com/Irfanff9  |
 | GcLink               | https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX |
 | Warn_Limits          | 3                            |
 | Cooldown_Timer_Seconds | 5                           |
@@ -70,7 +70,7 @@
 
 ##
 
-2. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PikaBotz/Anya_v2-MD/tree/master&env[BotName]=Queen%20Anya%20Bot&env[Footer]=©%20Queen%20Anya%20Bot&env[Prefix]=-&env[ThemeEmoji]=🎐&env[Owner_Name]=Pika~Kun&env[Owner_Number]=91881107xxxx&env[Insta]=3.69_pika&env[Author]=PikaBotz&env[PackName]=Queen%20Anya%20v2%20MD&env[Web]=https://github.com/PikaBotz&env[GcLink]=https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX&env[Warn_Limits]=3&env[Cooldown_Timer_Seconds]=5&env[Port]=8080&env[MongoDB]=YOUR_MONGODB_URL&env[SESSION_ID]=YOUR_SESSION_ID)
+2. [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Irfanff9/Anya_v2-MD/tree/master&env[BotName]=Queen%20Anya%20Bot&env[Footer]=©%20Queen%20Anya%20Bot&env[Prefix]=-&env[ThemeEmoji]=🎐&env[Owner_Name]=Irfanff9&env[Owner_Number]=91881107xxxx&env[Insta]=3.irpann_kidss&env[Author]=Irfanff9&env[PackName]=Queen%20Anya%20v2%20MD&env[Web]=https://github.com/Irfanff9&env[GcLink]=https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX&env[Warn_Limits]=3&env[Cooldown_Timer_Seconds]=5&env[Port]=8080&env[MongoDB]=YOUR_MONGODB_URL&env[SESSION_ID]=YOUR_SESSION_ID)
 
 ***<p align="left"> • [`Tap here for Heroku tutorial`](https://example.com) </p>***
 
@@ -84,16 +84,16 @@
     
 | Key                  | Example Value                        |
 |----------------------|------------------------------|
-| BotName              | Queen Anya Bot               |
-| Footer               | © Queen Anya Bot             |
+| BotName              | Irfan Bot               |
+| Footer               | © Irfan Bot             |
 | Prefix               | -                            |
 | ThemeEmoji           | 🎐                           |
-| Owner_Name           | Pika~Kun                     |
+| Owner_Name           | Irfanff9                     |
 | Owner_Number         | 91881107xxxx                 |
-| Insta                | 3.69_pika                    |
-| Author               | @PikaBotz                    |
-| PackName             | Queen Anya v2 MD             |
-| Web                  | https://github.com/PikaBotz  |
+| Insta                | 3.irpann_kidss                    |
+| Author               | @Irfanff9                    |
+| PackName             | Irfan v2 MD             |
+| Web                  | https://github.com/Irfanff9  |
 | GcLink               | https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX |
 | Warn_Limits          | 3                            |
 | Cooldown_Timer_Seconds | 5                           |
@@ -125,7 +125,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/PikaBotz/Anya_v2-MD
+git clone https://github.com/Irfanff9/Anya_v2-MD
 cd Anya_v2-MD
 yarn install
 npm start
@@ -135,7 +135,7 @@ npm start
   ***- Using download method to local storage.***
   
   Step: 1
-    ***Download [`Anya_v2-MD`](https://github.com/PikaBotz/Anya_v2-MD/archive/refs/heads/Master.zip) repository first.***
+    ***Download [`Anya_v2-MD`](https://github.com/Irfanff9/Anya_v2-MD/archive/refs/heads/Master.zip) repository first.***
 
   Step: 2
     ***Extract the downloaded `.zip` file.***
@@ -212,7 +212,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/PikaBotz/Anya_v2-MD
+git clone https://github.com/Irfanff9/Anya_v2-MD
 cd Anya_v2-MD
 npm start
 ```
@@ -227,12 +227,12 @@ npm start
 ##
 
 ### `Social Media Handles:`
-   - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PikaBotz) ***(profile)***
-   - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PikaBotz/Anya_v2-MD) ***(repository)***
+   - [![Github Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irfanff9) ***(profile)***
+   - [![Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Irfanff9/Anya_v2-MD) ***(repository)***
    - [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX) ***(group)***
    - [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaDIPkA6buMS9hRE7y2G) ***(channel)***
    - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pika_kunn)
-   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/3.69_pika)
+   - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/3.irpann_kidss)
 
 ##
 
@@ -253,13 +253,13 @@ Feel free to star ⭐ and fork 🍴 this repository to show your support!
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-PikaBotz-red.svg)](https://github.com/PikaBotz/) | [![Repository](https://img.shields.io/badge/Repo-Anya_V2_MD-red.svg)](https://github.com/PikaBotz/Anya_v2-MD) | [![GitHub forks](https://badgen.net/github/forks/PikaBotz/Anya_v2-MD/)](https://GitHub.com/PikaBotz/Anya_v2-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/PikaBotz/Anya_v2-MD)](https://GitHub.com/PikaBotz/Anya_v2-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/PikaBotz/anya_v2-md/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-Irfanff9-red.svg)](https://github.com/Irfanff9/) | [![Repository](https://img.shields.io/badge/Repo-Anya_V2_MD-red.svg)](https://github.com/Irfanff9/Anya_v2-MD) | [![GitHub forks](https://badgen.net/github/forks/Irfanff9/Anya_v2-MD/)](https://GitHub.com/Irfanff9/Anya_v2-MD/network/) | [![GitHub stars](https://badgen.net/github/stars/Irfanff9/Anya_v2-MD)](https://GitHub.com/Irfanff9/Anya_v2-MD/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/Irfanff9/anya_v2-md.svg)](https://github.com/Irfanff9/anya_v2-md/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/PikaBotz/Anya_v2-Md.svg)](https://GitHub.com/PikaBotz/Anya_v2-MD/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/PikaBotz/Anya_v2-md)](https://GitHub.com/PikaBotz/Anya_v2-md/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/PikaBotz/Anya_v2-MD/graphs/commit-activity) |
+| [![GitHub release](https://img.shields.io/github/release/Irfanff9/Anya_v2-Md.svg)](https://GitHub.com/Irfanff9/Anya_v2-MD/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/Irfanff9/Anya_v2-md)](https://GitHub.com/Irfanff9/Anya_v2-md/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/Irfanff9/Anya_v2-MD/graphs/commit-activity) |
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=PikaBotz/Anya_v2-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=PikaBotz/Anya_v2-MD)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Irfanff9/Anya_v2-MD)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Irfanff9/Anya_v2-MD)
 
 </div>
 </details>
